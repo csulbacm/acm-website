@@ -3,9 +3,17 @@
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.15.1.
 
-## Build & development
+## Development
 
-Run `grunt` for building and `grunt serve` for preview.
+To get started, clone the repository and run the following commands in the project directory:
+
+`npm install` and `bower install`
+
+Run `grunt serve` to preview website and for realtime preview of changes on save.
+
+## Build
+
+Run `grunt` for building, website will be generated into dist folder.
 
 ## Testing
 
