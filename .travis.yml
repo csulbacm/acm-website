@@ -3,7 +3,7 @@ node_js:
   - "6.1"
 
 before_script:
-  - npm install -g bower
+  - npm install -g bower grunt
   - bower install
 
 script:
